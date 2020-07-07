@@ -1,0 +1,128 @@
+*
+{
+    font-family: 'Font';
+}
+#home
+{
+    background-image: url(../afbeeldingen/Kaas.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+li
+{
+    color: #000000;
+    background-color: #AAAAAA;
+    
+    text-align: center;
+    display: inline-block;
+    margin-right: 10px;
+    font-size: 28px;
+    width: 180px;
+    height: 35px;
+}
+ul
+{
+    width: 1000px;
+    
+    position: absolute;
+    left: calc(50vw - 520px);
+}
+a:visited, a
+{
+    color: #000000;
+    text-decoration: none;
+}
+#home section 
+{
+    background-color: rgba(170,170,170,0.6);
+    width: 430px;
+    position: absolute;
+    top: 150px;
+    left: calc(50vw - 215px);
+}
+#introK h1
+{
+    text-align: center;
+}
+#introK p
+{
+    margin-left: 10px;
+}
+#pageTwo
+{
+    background-image: url(../afbeeldingen/Kaas2.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#pageTwo section 
+{
+    background-color: rgba(170,170,170,0.6);
+    width: 530px;
+    position: absolute;
+    top: 150px;
+    left: calc(50vw - 265px);
+}
+#oorspK h1
+{
+    text-align: center;
+}
+#oorspK p
+{
+    margin-left: 20px;
+}
+#pageThree
+{
+    background-image: url(../afbeeldingen/Kaas3.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#pageThree section 
+{
+    background-color: rgba(170,170,170,0.6);
+    width: 430px;
+    position: absolute;
+    top: 150px;
+    left: calc(50vw - 215px);
+}
+#pageFour
+{
+    background-image: url(../afbeeldingen/Kaas4.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#pageFour section 
+{
+    background-color: rgba(170,170,170,0.6);
+    width: 430px;
+    position: absolute;
+    top: 150px;
+    left: calc(50vw - 215px);
+} 
+#introK h3
+{
+    margin-left: 10px;
+}
+#pageFive
+{
+    background-image: url(../afbeeldingen/Kaas5.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#pageFive section 
+{
+    background-color: rgba(170,170,170,0.6);
+    width: 430px;
+    position: absolute;
+    top: 150px;
+    left: calc(50vw - 215px);
+} 
+@font-face
+{
+    font-family: 'Font';
+    src: url(../fonts/CodeNewRoman.otf);
+}
